@@ -27,7 +27,7 @@ deploy:
   provider: heroku
   api_key:
     secure: $HEROKU_API_KEY
-  app: test-my-travisci-project
+  app: gitlearning-jimmy-chuyu
   on:
     repo: Jimmy1244/git-learning
     
